@@ -4,6 +4,8 @@ body {
   padding: 1px;
   width: 960px;
   margin: auto;
+  font-size: 16px;
+  font-family: 'droid_serifregular', serif;
 }
 
 /* nav bar */
@@ -14,6 +16,13 @@ div ul {
 
 h1 {
   font-size: 28px;
+  font-family: 'Yellowtail', cursive;
+  display: inline-block;
+}
+
+h2 {
+  font-size: 28px;
+  font-family: 'droid_serifregular', serif;
   display: inline-block;
 }
 
